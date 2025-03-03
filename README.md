@@ -73,7 +73,7 @@ git push origin main
 ```
 - Contribution 🤝
 
-  Contributions are welcome and could include:
+Contributions are welcome and could include:
 
 1. Enhancing user research and documentation.
 2. Providing new design ideas and feedback.
